@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-[https://imgur.com/a/MmIIRq2]
+[https://imgur.com/a/MmIIRq2.gif]
 
 ## App Brainstorming (Step 4)
 - I'm interested in developing a task planner application that enables users to generate and share tasks. Those who have subscribed to the planner will receive notifications, allowing them to select tasks according to their preference and complete them. The main purpose of this app is to facilitate roommates in assigning various household chores to each other and sending out notifications to ensure tasks are chosen and accomplished efficiently.
